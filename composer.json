@@ -1,9 +1,9 @@
 {
-    "name": "friendsofsymfony/oauth-server-bundle",
+    "name": "jiajiagithub/oauth-server-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 OAuth Server Bundle",
-    "keywords": ["oauth", "oauth2", "server"],
-    "homepage": "http://friendsofsymfony.github.com",
+    "keywords": ["oauth", "oauth2", "server", "symfony5-oauth2-server"],
+    "homepage": "https://github.com/jiajiagithub/FOSOAuthServerBundle",
     "license": "MIT",
     "authors": [
         {
